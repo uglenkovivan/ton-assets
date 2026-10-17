@@ -1,7 +1,7 @@
 name: COOL Computer Technology Token
 description: Utility token for computer technology ecosystem with PoW-based distribution and community rewards.
 image: "https://raw.githubusercontent.com/uglenkovivan/-COOL/main/logo.png"
-address: https://github.com/ton-blockchain/TEPs/blob/master/text/0074-jettons-standard.md
+address: 0:4f23443c1cface096c531a6fb9b873aeef1734e84a3cde2c1155484af5ceeb5f
 symbol: COOL
 websites:
   - "https://github.com/uglenkovivan/-COOL"
